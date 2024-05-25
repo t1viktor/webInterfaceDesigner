@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+::selection{
+    color: aliceblue;
+    background-color: orangered;
+}
+
+body{
+    background-color: rgba(6, 6, 8, 0.993);
+}
+
+main{
+    margin:0 14%;;
+}
+
+button{
+    cursor: pointer;
+}
